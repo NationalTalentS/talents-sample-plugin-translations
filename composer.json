@@ -7,6 +7,12 @@
             "email": "ahmader@talents.edu.sa"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/nationaltalents/language-pack-maker"
+        }
+    ],
     "require": {
         "afragen/language-pack-maker": "dev-master"
     },

@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c3e75959556b64be78ed3abcdb166f1f",
+    "content-hash": "aba46736ec919505c7753c49183c548f",
     "packages": [
         {
             "name": "afragen/language-pack-maker",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/afragen/language-pack-maker.git",
-                "reference": "c15dd86fd339766e848cfc4314fdce8c6d7b1f66"
+                "url": "https://github.com/NationalTalentS/language-pack-maker.git",
+                "reference": "512ceed84e36ded64891c12fd415108331702c20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/afragen/language-pack-maker/zipball/c15dd86fd339766e848cfc4314fdce8c6d7b1f66",
-                "reference": "c15dd86fd339766e848cfc4314fdce8c6d7b1f66",
+                "url": "https://api.github.com/repos/NationalTalentS/language-pack-maker/zipball/512ceed84e36ded64891c12fd415108331702c20",
+                "reference": "512ceed84e36ded64891c12fd415108331702c20",
                 "shasum": ""
             },
             "require": {
@@ -32,7 +32,6 @@
                     "index.php"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -50,7 +49,11 @@
                 "translations",
                 "wordpress"
             ],
-            "time": "2019-11-25T00:49:48+00:00"
+            "support": {
+                "issues": "https://github.com/afragen/language-pack-maker/issues",
+                "source": "https://github.com/afragen/language-pack-maker"
+            },
+            "time": "2019-11-25T12:07:37+00:00"
         }
     ],
     "packages-dev": [],
