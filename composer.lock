@@ -1,0 +1,66 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c3e75959556b64be78ed3abcdb166f1f",
+    "packages": [
+        {
+            "name": "afragen/language-pack-maker",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/afragen/language-pack-maker.git",
+                "reference": "c15dd86fd339766e848cfc4314fdce8c6d7b1f66"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/afragen/language-pack-maker/zipball/c15dd86fd339766e848cfc4314fdce8c6d7b1f66",
+                "reference": "c15dd86fd339766e848cfc4314fdce8c6d7b1f66",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "Language_Pack_Maker.php"
+                ],
+                "files": [
+                    "index.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Andy Fragen",
+                    "email": "andy@thefragens.com",
+                    "homepage": "https://thefragens.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Library that helps create git sourced WordPress Language Packs from mo/po files.",
+            "keywords": [
+                "language packs",
+                "translations",
+                "wordpress"
+            ],
+            "time": "2019-11-25T00:49:48+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "afragen/language-pack-maker": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
